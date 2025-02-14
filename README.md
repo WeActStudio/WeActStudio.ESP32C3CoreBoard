@@ -1,4 +1,4 @@
-* [中文版本](./README-zh.md)
+* [中文版本](./README_zh.md)
 # WeActStudio.ESP32C3CoreBoard
 ![display](Images/1.png)
 ESP32-C3FH4
